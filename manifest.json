@@ -2,8 +2,9 @@
   "name": "Moslim Business Planner",
   "short_name": "Moslim Planner",
   "description": "Plan your day with barakah. Ibadah, discipline and business in one app \u2014 by RY-Items.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/",
+"scope": "/",
+
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#faf7f4",
